@@ -46,7 +46,7 @@ This project analyzes **\$733K in retail transactions for the fiscal year 2023**
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Executive Layout](Images/sales-dashboard.png)
+![Sales Dashboard Executive Layout](Images/sales_dashboard.png)
 
 ---
 *Developed by Biswarup Chatterjee. Connect with me on [LinkedIn](http://www.linkedin.com/in/biswarup-chatterjee-6317b827a/) to discuss data analytics and business intelligence.*
